@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "788404651902",
+    "firebase_url": "https://chatcupid-87b76-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatcupid-87b76",
+    "storage_bucket": "chatcupid-87b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788404651902:android:8fb94af388b9fe47b2152f",
+        "android_client_info": {
+          "package_name": "com.app.chatcupid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788404651902-4jnokp9d3r42l7rdfqfe2r466gmb80kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chatcupid",
+            "certificate_hash": "0fbcf87491c7a6c1eaa0e469201ce75660152c6e"
+          }
+        },
+        {
+          "client_id": "788404651902-pmbmh0qbl6vsm0q2pmd5o5dpogmhbfib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chatcupid",
+            "certificate_hash": "acb4afbc69a2a90809d241013f7a1cc55f579228"
+          }
+        },
+        {
+          "client_id": "788404651902-um28chs68ossncio3q1sk4gl58c3atr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chatcupid",
+            "certificate_hash": "3588fb404ad9fdd8eacc4ca64cfb80a50a858137"
+          }
+        },
+        {
+          "client_id": "788404651902-cf44gui36u97m1oi1p9ic6rdlev041ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDas_1cyssbAeuGK6u7HxgOPcgxl6TNjMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788404651902-cf44gui36u97m1oi1p9ic6rdlev041ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788404651902-1bv96v8uajplukjgfq09hfd7o06ca6hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatcupid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788404651902:android:e60798cfb71cb1c8b2152f",
+        "android_client_info": {
+          "package_name": "com.example.chatcupid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788404651902-cf44gui36u97m1oi1p9ic6rdlev041ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDas_1cyssbAeuGK6u7HxgOPcgxl6TNjMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788404651902-cf44gui36u97m1oi1p9ic6rdlev041ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788404651902-1bv96v8uajplukjgfq09hfd7o06ca6hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatcupid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
